@@ -22,12 +22,13 @@ h2 {
 h3 {
   font-size: 23px
   font-weight: bold;
-}
+  }
 
 h4 {
   font-size: 23px;
   font-weight: bold;
   color: white;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
 
 p {
@@ -38,4 +39,12 @@ p {
   font-size: 11px;
   color: white;
   background-color: dimgray;
+}
+
+a {
+  color: white;
+}
+
+#topPart {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
 }
